@@ -24,7 +24,8 @@ I have Learned in this Redbus clone web Application How to Designed their Struct
 Learned How to integrate that Data and Perform Filter Operation,s Based upon user,s Query.
 our Redbus clone project aims to provide a convenient, reliable, and hassle-free bus booking experience for users. With its intuitive design, robust features, and secure infrastructure.
 
-![Screenshot (54)](https://user-images.githubusercontent.com/111452796/228758796-0508a40d-dd90-4f49-a24d-c63199f0cfba.png)
+
+
 ![Screenshot (55)](https://user-images.githubusercontent.com/111452796/228758813-73804861-af69-417c-9881-4adb211a6c24.png)
 ![Screenshot (56)](https://user-images.githubusercontent.com/111452796/228758834-1e7b9c0d-b112-4c6e-b8ce-9044396cad8a.png)
 ![Screenshot (57)](https://user-images.githubusercontent.com/111452796/228758843-c24cbf4d-3d18-4902-9e6a-dcf0d8d37e6e.png)
